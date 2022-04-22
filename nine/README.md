@@ -149,6 +149,18 @@
 (assoc v 3 7) // 0 -> [1 2 3 7]
 ```
 ___
+Полезные ссылки:
+* [mapv](https://clojuredocs.org/clojure.core/mapv)
+* [apply]
+___
+Документация
+* Лучшая
+  * [Tutorial][tut]
+  * [Documentation][doc]
+* Официальная
+  * [Clojure Reference](https://clojure.org/reference/documentation)
+  * [Clojure Cheat Sheet](https://clojure.org/api/cheatsheet)
+___
 Посмотреть что такое:
 
 `map`, `nth`, `dec`, 
@@ -160,13 +172,6 @@ ___
 `identity`, `constantly`, `partial`,
 предикаты
 ___
-Документация
-* Лучшая
-  * [Tutorial][tut]
-  * [Documentation][doc]
-* Официальная
-  * [Clojure Reference](https://clojure.org/reference/documentation)
-  * [Clojure Cheat Sheet](https://clojure.org/api/cheatsheet)
 
 [tut]: https://alexott.net/ru/clojure/clojure-intro/#sec1
 [doc]: https://clojuredocs.org/quickref
