@@ -108,7 +108,7 @@
 > Кстати `assoc` можно так же использовать для добавления элементов. Главное чтобы указанный индекс различался с границами не более чем на 1.
 ```
 (def v (vector 1 2 3))
-(assoc v -1 5) // 0 -> [-1 1 2 3]
+(assoc v -1 5) // 0 -> [5 1 2 3]
 (assoc v 3 7) // 0 -> [1 2 3 7]
 ```
 ___
@@ -123,3 +123,6 @@ ___
 `identity`, `constantly`, `partial`
 предикаты
 ___
+Документация
+* [Clojure Reference](https://clojure.org/reference/documentation)
+* [Clojure Cheat Sheet](https://clojure.org/api/cheatsheet)
