@@ -151,7 +151,7 @@
 ___
 Полезные ссылки:
 * [mapv](https://clojuredocs.org/clojure.core/mapv)
-* [apply]
+* [apply](https://clojuredocs.org/clojure.core/apply)
 ___
 Документация
 * Лучшая
