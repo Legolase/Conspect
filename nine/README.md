@@ -120,7 +120,7 @@ ___
 `apply`, `juxt`.
 
 Очень странные вещи
-`identity`, `constantly`, `partial`
+`identity`, `constantly`, `partial`,
 предикаты
 ___
 Документация
