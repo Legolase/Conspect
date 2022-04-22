@@ -73,11 +73,11 @@
 ### Пред/пост-условия
 ```
 (defn <func-name> 
+    [arguements]
     {
         :pre [<boolean expression>]
         :post [<boolean expression>]
     } 
-    [arguements]
     (<body>)
 )
 ```
