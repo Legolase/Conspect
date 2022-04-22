@@ -126,3 +126,4 @@ ___
 Документация
 * [Clojure Reference](https://clojure.org/reference/documentation)
 * [Clojure Cheat Sheet](https://clojure.org/api/cheatsheet)
+* [Tutorial](https://alexott.net/ru/clojure/clojure-intro/#sec8)
